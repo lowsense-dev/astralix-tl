@@ -4,6 +4,12 @@ Telegram MTProto client library for **astralix Userbot**, based on HerokuTL and 
 
 Repository: https://git.astralix.cc/lowsense-dev/astralix-tl (public). No project Telegram channels or chats.
 
+## Install from PyPI
+
+```bash
+uv pip install astralix-tl==1.0.0
+```
+
 ## Install from source
 
 ```bash
