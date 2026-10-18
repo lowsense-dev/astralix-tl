@@ -7,7 +7,7 @@ Repository: https://git.astralix.cc/lowsense-dev/astralix-tl (public). No projec
 ## Install from PyPI
 
 ```bash
-uv pip install astralix-tl==1.1.0
+uv pip install astralix-tl==1.2.0
 ```
 
 ## Install from source
