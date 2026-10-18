@@ -7,8 +7,15 @@ Repository: https://git.astralix.cc/lowsense-dev/astralix-tl (public). No projec
 ## Install from PyPI
 
 ```bash
-uv pip install astralix-tl==1.2.0
+uv pip install astralix-tl==1.46.0
 ```
+
+## Versioning
+
+Versions follow [Telethon v1](https://codeberg.org/Lonami/Telethon): a release with a new
+Telegram API layer bumps the minor version, fixes bump the patch version. 1.46.0 is
+Telethon 1.45 with layers 230 and 231. The layer of an installed version is
+`astralixtl.tl.alltlobjects.LAYER`.
 
 ## Install from source
 
